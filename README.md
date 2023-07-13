@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **like minded people and open source enthusiast**
 
-- 💬 Ask me about **anything, I would love to help you if I can**
+- 💬 Ask me about **anything, I would be happy to help you if I can**
 
 - 📫 How to reach me **abhishekkrbauri02@gmail.com**
 
