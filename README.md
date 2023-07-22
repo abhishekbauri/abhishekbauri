@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Bauri</h1>
-<h3 align="center">A passionate MERN developer from India. I have completed my 6 months Internship at KreditBee as a Frontend Software Engineer Intern.</h3>
+<h3 align="center">A passionate MERN developer from India. I have completed my 6 months Internship at KreditBee as a Frontend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbauri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbauri" /> </p>
 
