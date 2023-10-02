@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **abhishekkrbauri02@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1D02pnpOg9-_MACHXOBUqCMYU79AKSW1IiUlzv-ieiFs/edit?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://abhishek-kumar-bauri.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
