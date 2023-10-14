@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Bauri</h1>
-<h3 align="center">A passionate MERN developer from India. I have completed my 6 months Internship at KreditBee as a Frontend Developer.</h3>
+
+[![An image of @abhishekbauri's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abhishekbauri)](https://holopin.io/@abhishekbauri)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekbauri&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekbauri" /> </p>
 
@@ -10,7 +11,7 @@
 
 - 👯 I’m looking to collaborate with **like minded people and open source enthusiast**
 
-- 💬 Ask me about **anything, I would be happy to help you if I can**
+- 💬 Ask me about **MERN development, I would be happy to help you if I can**
 
 - 📫 How to reach me **abhishekkrbauri02@gmail.com**
 
