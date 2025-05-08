@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abhishekkrbauri02@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://abhishek-kumar-bauri.netlify.app/)
+- 📄 Know about my experiences [Portfolio](https://portfolio-abhishek-bauri.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
